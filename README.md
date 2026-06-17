@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="portfolio-banner.png" alt="Kavya Singh Portfolio Banner">
+<img src=<img src="K image.png" alt="Kavya Singh - Data Analyst" width="100%">
 
 </div>
 
