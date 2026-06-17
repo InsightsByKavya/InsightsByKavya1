@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src= https://raw.githubusercontent.com/InsightsByKavya/InsightsByKavya1/refs/heads/main/K%20image.png
+<img src= K image.png
 
 </div>
 
