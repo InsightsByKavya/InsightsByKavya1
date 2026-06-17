@@ -1,20 +1,24 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src=<img src="K image.png" alt="Kavya Singh - Data Analyst" width="100%">
+<img src="K image.png" alt="Kavya Singh - Data Analyst" width="100%">
 
 </div>
 
 <div align="center">
 
 ```
-█▀▄ ▄▀█ ▀█▀ ▄▀█   ▀█▀ ▄▀█ █░░ █▄▀ █▀   ▀  █░░ █ █░█ █▀▀
-█▄▀ █▀█ ░█░ █▀█   ░█░ █▀█ █▄▄ █░█ ▄█   ░  █▄▄ █ ▀▄▀ ██▄
+
+ ██▄ █▀▄ █ █▀▄ ▄▀  █ █▄ █ ▄▀    ▄▀  ▄▀▄ █▀▄   █   █ █ ▀█▀ █▄█   ▄▀▄ █
+ █▄█ █▀▄ █ █▄▀ ▀▄█ █ █ ▀█ ▀▄█   ▀▄█ █▀█ █▀    ▀▄▀▄▀ █  █  █ █   █▀█ █
 
 
 ```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chelsea+Market&weight=600&size=26&pause=1000&color=1F1F74&width=435&lines=Data-driven.+Insight-focused.;Curiosity+meets+computation.;Turning+complexity+into+clarity.;%22Finding+signals+in+the+static.%22+%E2%9C%A8" alt="Typing SVG" /></a>
 
 </div>
+
+---
 
 ---
 
